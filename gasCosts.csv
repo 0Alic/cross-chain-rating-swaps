@@ -1,0 +1,11 @@
+Operation,Gas
+Deploy Ratings, 690454
+Deploy HTLC_Carl_PP, 881506
+enableHTLC, 46303
+Deploy HTLC_Alice_PP, 857623
+HTLC_Alice_PP.withdraw, 41161
+HTLC_Carl_PP.withdraw, 67626
+Deploy HTLC_Carl_RR, 840636
+Deploy HTLC_Alice_RR, 842669
+HTLC_Alice_RR.withdraw, 72429
+HTLC_Carl_RR.withdraw, 41161
